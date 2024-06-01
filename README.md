@@ -4,19 +4,19 @@
 
 </div>
 
----
-
 <h1 align="center">💡 My Blog 💡 </h1>
 <p align="center">
-<a href="https://tichall.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Tistory&logoColor=white&link=https://tichall.tistory.com/"/></a>
+
+<br>
+
+<a href="https://tichall.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-eb531f?style=for-the-badge&logo=Tistory&logoColor=white" />&nbsp
+  </a>
 </p>
 <br>
 
----
-
 <h1 align="center"> 💻 Tech Stack 💻</h1>
 <p align="center">
-
 
 <br>
 
@@ -27,16 +27,14 @@
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
 
-
 </p>
 <br>
 
----
 <br>
 
 <div align="center">
 
-<table style="margin-left: auto; margin-right: auto;">
+<table border="0" style="margin-left: auto; margin-right: auto;">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=tichall&show_icons=true&hide_rank=true&theme=transparent" alt="Tichall's GitHub stats" />
