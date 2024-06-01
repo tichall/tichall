@@ -3,14 +3,14 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:ddd6f3,100:ee9ca7&text=Welcome%20to%20Tichall's%20GitHub%20👋&fontColor=ffffff&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&descAlign=50&height=250)
 
 </div>
-
+<br>
 <h1 align="center">💡 My Blog 💡 </h1>
 <p align="center">
 
 <br>
 
 <a href="https://tichall.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-eb531f?style=for-the-badge&logo=Tistory&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Tistory-eb531f?style=for-the-badge&logo=Tistory&logoColor=white" />
   </a>
 </p>
 <br>
